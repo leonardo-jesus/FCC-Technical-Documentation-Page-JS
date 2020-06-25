@@ -17,7 +17,7 @@
 ## :heavy_check_mark: :computer: Web Result
 
 <h1 align="center">
-    <img alt="Web" src="./layout-web.png" width="100%">
+    <img alt="Web" src="./layout-web.png">
 </h1>
 
 ## :heavy_check_mark: :iphone: Mobile Result
