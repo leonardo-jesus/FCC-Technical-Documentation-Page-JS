@@ -16,15 +16,15 @@
 
 ## :heavy_check_mark: :computer: Web Result
 
-<h1 align="center">
+<p align="center">
     <img alt="Web" src="./layout-web.png" width="900px">
-</h1>
+</p>
 
 ## :heavy_check_mark: :iphone: Mobile Result
 
-<h1 align="center">
+<p align="center">
     <img alt="Mobile" src="./layout-mobile.png" width="300px">
-</h1>
+</p>
 
 ## 🚀 Technologies
 
